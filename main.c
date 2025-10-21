@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <math.h>
 #include <stdio.h>
-//#include<time.h>←これを使う時はcalculator関数の変数secondをリネームすること
+//#include<time.h>
 //#include<unistd.h>
 //#include<io.h>
 //#include<windows.h>
