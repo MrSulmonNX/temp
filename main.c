@@ -89,7 +89,6 @@ int nkai(void) {
 //電卓関数 -オプション2//
 int calculator(void) {
 
-    for (;;) {
 
         double num1, num2, result;
         char operator;
@@ -130,6 +129,5 @@ int calculator(void) {
         printf("\n");
         printf("Result: %.2lf %c %.2lf = %.2lf\n", num1, operator, num2, result);
         printf("\n");
-    }
 
 }
